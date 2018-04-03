@@ -1,0 +1,7 @@
+* Magit toolbar
+
+  Adding an emacs-toolbar button to start [[https://magit.vc/][Magit]].
+
+  For the toolbar icon, we use the [[https://github.com/magit/logo][magit logo]], which is available under
+  the [[https://creativecommons.org/licenses/by-nc-sa/4.0/][Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  International License]].
